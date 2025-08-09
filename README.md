@@ -1,3 +1,3 @@
-# First-project
+# The first-project
 
 Какой-то текст по запуску проекта
